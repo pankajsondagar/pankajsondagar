@@ -4,9 +4,6 @@
 ![SYMFONY](https://img.shields.io/badge/symfony-%23262626.svg?style=for-the-badge&logo=symfony&logoColor=white) 
 ![CAKEPHP](https://img.shields.io/badge/cakephp-%23D33C44.svg?style=for-the-badge&logo=cakephp&logoColor=white) 
 
-<a href="https://github-contributor-stats.vercel.app/api?username=pankajsondagar&title_color=006AFF&text_color=417E87&icon_color=0579C3&bg_color=ffffff00&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true" target="_blank">
-  <img src="https://github-contributor-stats.vercel.app/api?username=pankajsondagar&title_color=006AFF&text_color=417E87&icon_color=0579C3&bg_color=ffffff00&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true" />
-</a>
 <a href="https://github-readme-stats.vercel.app/api?username=pankajsondagar&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&rank_icon=percentile&theme=transparent" target="_blank">
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=pankajsondagar&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&rank_icon=percentile&theme=transparent" />
 </a>
