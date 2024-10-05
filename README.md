@@ -6,9 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=pankajsondagar)
 
-<a href="https://github-contributor-stats.vercel.app/api?username=pankajsondagar&title_color=006AFF&text_color=417E87&icon_color=0579C3&bg_color=ffffff00&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true" target="_blank">
-  <img src="https://github-contributor-stats.vercel.app/api?username=pankajsondagar&title_color=006AFF&text_color=417E87&icon_color=0579C3&bg_color=ffffff00&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true" />
-</a>
+
 <a href="https://github-readme-stats.vercel.app/api?username=pankajsondagar&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&rank_icon=percentile&theme=transparent" target="_blank">
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=pankajsondagar&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&rank_icon=percentile&theme=transparent" />
 </a>
@@ -22,5 +20,7 @@
 <a href="https://github-readme-activity-graph.vercel.app/graph?username=pankajsondagar&bg_color=0000000&color=0579C3&line=0579C3&point=417E87&area_color=006AFF&area=true&hide_border=true" target="_blank">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pankajsondagar&bg_color=0000000&color=0579C3&line=0579C3&point=417E87&area_color=006AFF&area=true&hide_border=true" />
 </a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajsondagar)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajsondagar=vim%20script)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/pankajsondagar/pankajsondagar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajsondagar&hide=php,c,vim script,objective-c,actionscript,roff,html,javascript,css,java,&langs_count=3&theme=nord" />
+</a>
