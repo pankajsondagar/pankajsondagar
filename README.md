@@ -20,7 +20,5 @@
 <a href="https://github-readme-activity-graph.vercel.app/graph?username=pankajsondagar&bg_color=0000000&color=0579C3&line=0579C3&point=417E87&area_color=006AFF&area=true&hide_border=true" target="_blank">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pankajsondagar&bg_color=0000000&color=0579C3&line=0579C3&point=417E87&area_color=006AFF&area=true&hide_border=true" />
 </a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajsondagar=vim%20script)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://github.com/pankajsondagar/pankajsondagar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajsondagar&hide=php,c,vim script,objective-c,actionscript,roff,html,javascript,css,java,&langs_count=3&theme=nord" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajsondagar=vim%20script)](https://github.com/pankajsondagar/github-readme-stats)
+
